@@ -39,13 +39,13 @@ public class EstoqueTableModel extends AbstractTableModel {
    
         switch (columnIndex) {
             case 0:
-                return String.format("%05d", produto.getCod());
+                return String.format("%05d" , produto.getCod());
             case 1:
                 return produto.getNome();
             case 2:
                 return produto.getMarca();
             case 3:
-                return String.format("%.2f", produto.getValorSaida()); 
+                return String.format("%.2f" , produto.getValorSaida()); 
             case 4:
                 return produto.getQtdEstoque();
             default:
