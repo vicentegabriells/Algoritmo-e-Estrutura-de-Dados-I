@@ -459,7 +459,7 @@ public class LojaVideogamesGUI {
     
     private void carregarDados() {
         int confirm = JOptionPane.showConfirmDialog(quadro, 
-            "Isso substituirá todos os dados atuais em memória. Deseja continuar?", 
+            "Isso substituirá todos os dados atuais em memória.\nDeseja continuar?", 
             "Confirmar Carregamento", 
             JOptionPane.YES_NO_OPTION,
             JOptionPane.WARNING_MESSAGE);
