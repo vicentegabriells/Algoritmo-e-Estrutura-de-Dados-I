@@ -410,7 +410,7 @@ public class LojaVideogamesGUI {
         int confirmar = JOptionPane.showConfirmDialog(
             quadro, 
             "Isso irá apagar todos os dados da sessão atual (estoque e vendas).\n" +
-            "Os arquivos salvos em disco não serão afetados.\n\n" +
+            "Os arquivos salvos em disco não serão afetados após sua escolha.\n\n" +
             "Deseja continuar?", 
             "Confirmar Limpeza de Dados", 
             JOptionPane.YES_NO_OPTION, 
