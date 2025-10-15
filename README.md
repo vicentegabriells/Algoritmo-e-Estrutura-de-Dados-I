@@ -42,3 +42,4 @@ O projeto está organizado nas seguintes classes principais:
 ---
 ## 👨‍💻 Autor
 Vicente Gabriel Loiola Souza
+Welber Sauan dos Santos Souza
