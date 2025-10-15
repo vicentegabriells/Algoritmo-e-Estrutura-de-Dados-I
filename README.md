@@ -41,5 +41,4 @@ O projeto está organizado nas seguintes classes principais:
 6.  Clique no botão **"Run"** que aparece acima do método `main`.
 ---
 ## 👨‍💻 Autor
-Vicente Gabriel Loiola Souza
-Welber Sauan dos Santos Souza
+Vicente Gabriel Loiola Souza e Welber Sauan dos Santos Souza
